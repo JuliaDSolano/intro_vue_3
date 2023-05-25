@@ -448,4 +448,3 @@ computed: {
 ![code_challenge_t9](img_readme/code_challenge_t9.png)
 
 
-
